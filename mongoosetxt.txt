@@ -1,0 +1,6 @@
+Schema - Define the structure
+    Schema - Model 
+    Using Model we do CRUD operation
+
+// MongoDB command 
+ -- db.users.find({})   --> users is collection
